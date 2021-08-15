@@ -57,8 +57,8 @@ header ul li a:hover {
 .img {
     background-size: cover;
     width: 180px;
-    height: 180px;
-    top: 50px;
+    height: 250px;
+    top: 70px;
     bottom: 0;
     border: 3px solid #000;
 }
